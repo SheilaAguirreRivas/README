@@ -1,5 +1,3 @@
-#hello_world
-
 ### Hello 👋 I'm Shey
 
 
