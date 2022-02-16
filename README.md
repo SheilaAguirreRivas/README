@@ -13,6 +13,7 @@ I'm working really hard in things from the programming world <img src='https://3
 ## Skills
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png' width='50px'/>]()
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU' width='50px' />
 <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' width='50px' />
 <img src='https://cio.com.mx/wp-content/uploads/2018/03/sql-server-2017-con-ia.jpg' width='50px' />
 <img src='https://i.imgur.com/ydUqpyd.jpeg' width='50px'/>
