@@ -1,9 +1,7 @@
-#hello_world
-
 ### Hello 👋 I'm Shey
 
 
-I'm working really hard with Java, C++, SQL Server and other things from the programming world
+I'm working really hard in things from the programming world
 
 Skills: JAVA/C++/SQL SERVER
 
