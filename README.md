@@ -1,6 +1,6 @@
 ## Hello I'm Shey <img src='https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966 ' width='50px'/>
 I characterize myself for being enthusiastic and committed when it comes to learning new knowledge, both professionally and personally.
-I spend my free time watching movies and anime. I also like to read about fantasy.
+I spend my free time watching movies, series and anime. I also like to read about fantasy.
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 
 
 <img src='https://user-images.githubusercontent.com/92554092/137428617-ec928615-5c57-4adb-ac14-407fb612ee13.gif' width='480px'/>
