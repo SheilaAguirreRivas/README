@@ -1,6 +1,5 @@
 ### Hello 👋 I'm Shey
 
-
 I'm working really hard in things from the programming world
 
 Skills: JAVA/C++/SQL SERVER/Dreamweaver/Flash8
