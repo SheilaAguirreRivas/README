@@ -19,4 +19,5 @@ I'm working really hard in things from the programming world <img src='https://3
 <img src='https://i.imgur.com/ydUqpyd.jpeg' width='50px'/>
 <img src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg' width='50px'/>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Macromedia_Flash_8_icon.png/600px-Macromedia_Flash_8_icon.png' width='50px'/>
-
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' width='50px'/>
+<img src='https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-500x281.png' width='50px'/>
